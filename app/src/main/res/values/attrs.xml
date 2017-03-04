@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundTextView">
+        <attr name="rtvText" format="string" />          // 文本内容
+        <attr name="rtvBackground" format="color"/>      // 背景颜色
+        <attr name="rtvTextSize" format="dimension"/>    // 文本字体大小
+        <attr name="rtvTextColor" format="color"/>       // 文本颜色
+        <attr name="rtvCornerSize" format="float"/>      // 圆角大小
+        <attr name="rtvBorderWidth" format="float"/>     // 边框大小
+        <attr name="rtvBorderColor" format="color"/>     // 边框颜色
+        <attr name="rtvIsWithBorder" format="boolean"/>  // 是否带边框
+        <attr name="rtvIsCircle" format="boolean"/>      // 是否是圆角
+    </declare-styleable>
+
+
+</resources>
