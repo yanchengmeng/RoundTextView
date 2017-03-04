@@ -62,4 +62,4 @@
         app:rtvText="圆形不带边框"
         app:rtvTextColor="@android:color/white"
         app:rtvTextSize="11sp" />
-![截图](https://github.com/chenyufeng1991/NewsClient/raw/master/Screenshots/2.png)
+![截图](https://github.com/yanchengmeng/RoundTextView/blob/master/screenshot/Screenshot_2017-03-04-21-14-37.png)
